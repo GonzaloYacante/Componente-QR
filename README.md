@@ -68,12 +68,12 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 
 ### Captura de pantalla
 
-![Captura de pantalla](./screenshot.jpg)
+![Captura de pantalla](./screenshot.png)
 
 
 ### Enlaces
 
-- URL de la solución: [Solución](https://your-solution-url.com)
+- URL de la solución: [Solución](https://gonzaloyacante.github.io/Componente-QR/)
 
 
 ### Construido con
