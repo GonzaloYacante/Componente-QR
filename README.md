@@ -26,16 +26,16 @@ This is a solution to [Frontend Mentor QR Code Component Challenge](https://www.
 
 ### Built with
 
-- semantic HTML5
+- Semantic HTML5
 - CSS custom properties
-- flexible box
+- Flex box
 - Mobile first workflow
 - Responsive design
 
 
 ### Continuous development
 
-- css preprocessor
+- CSS Preprocessor
 - JavaScript
 
 
@@ -79,7 +79,7 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 ### Construido con
 
 - HTML5 semántico
-- Propiedades personalizadas de CSS
+- Propiedades personalizadas de CSS3
 - Caja flexible
 - Flujo de trabajo móvil primero
 - Diseño responsivo
@@ -87,7 +87,7 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 
 ### Desarrollo continuo
 
-- Preprocesadores css
+- Preprocesadores CSS
 - JavaScript
 
 
