@@ -97,7 +97,7 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 - [Platzi](https://platzi.com) - Platzi es una plataforma online de educación efectiva donde aprendí las habilidades para realizar este proyecto.
 
 
-## Author
+## Autor
 
 - Sitio Web - [Gonzalo Yacante](https://gonzaloyacante.github.io/portafolio/)
 - Frontend Mentor - [@GonzaloYacante](https://www.frontendmentor.io/profile/GonzaloYacante)
