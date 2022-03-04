@@ -16,12 +16,12 @@ This is a solution to [Frontend Mentor QR Code Component Challenge](https://www.
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://gonzaloyacante.github.io/Componente-QR/)
 
 
 ### Built with
