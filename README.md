@@ -50,6 +50,7 @@ This is a solution to [Frontend Mentor QR Code Component Challenge](https://www.
 - Frontend Mentor - [@GonzaloYacante](https://www.frontendmentor.io/profile/GonzaloYacante)
 - Instagram - [@gonzaloyacante](https://www.instagram.com/gonzaloyacante/)
 
+
 # Frontend Mentor - Solución de componente de código QR (Español)
 
 Esta es una solución al [desafío del componente de código QR en Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Los desafíos de Frontend Mentor ayudan a mejorar tus habilidades de codificación mediante la creación de proyectos realistas.
@@ -91,7 +92,7 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 - JavaScript
 
 
-### Useful resources
+### Recursos útiles
 
 - [Platzi](https://platzi.com) - Platzi es una plataforma online de educación efectiva donde aprendí las habilidades para realizar este proyecto.
 
